@@ -4,9 +4,7 @@ An end-to-end data analytics project focused on analyzing Indian startup funding
 
 📌 Project Overview
 
-This project explores Indian startup funding data from 2015 to 2025 to understand funding trends, identify leading sectors, analyze investment stages, and evaluate investor participation.
-
-The project includes data preparation, data analysis, KPI development, and interactive Power BI dashboards to present meaningful business insights.
+This project analyzes a synthetic Indian startup funding dataset covering 2015 to 2025. It demonstrates data cleaning, SQL analysis, KPI development, and interactive Power BI dashboards to explore funding trends, sectors, investment stages, and investor activity.
 
 🎯 Project Objectives
 
@@ -31,6 +29,15 @@ The project includes data preparation, data analysis, KPI development, and inter
 - DAX
 - Data Cleaning and Transformation
 - Data Visualization
+  
+  Data Cleaning & Preparation
+
+- Standardized column names and text formatting.
+- Handled missing categorical values using "Unknown".
+- Converted date and numeric columns to appropriate data types.
+- Recalculated the year from the announcement date.
+- Preserved undisclosed funding amounts as blank values.
+- Checked for duplicate records and unique funding round IDs.
 
 📊 Dashboard Features
 
@@ -102,19 +109,11 @@ Dashboard 2
 
 Indian-Startup-Funding-Analysis/
 │
-├── Dataset/
-│   └── Indian_Startup_Funding_Cleaned.csv
-│
-├── SQL/
-│   └── Indian_Startup_Funding_SQL_Analysis.sql
-│
-├── Dashboard/
-│   └── indian_startup_funding_analysis_dashboard.pbix
-│
-├── Dashboard_Previews/
-│   ├── Indian_Startup_Funding_Overview.png
-│   └── Sector_&_Investment_Analysis.png
-│
+├── Indian_Startup_Funding_Cleaned.csv
+├── Indian_Startup_Funding_SQL_Analysis.sql
+├── indian_startup_funding_analysis_dashboard.pbix
+├── Indian_Startup_Funding_Overview.png
+├── Sector_&_Investment_Analysis.png
 └── README.md
 
 💡 Skills Demonstrated
