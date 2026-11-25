@@ -103,7 +103,7 @@ Dashboard 2
 Indian-Startup-Funding-Analysis/
 │
 ├── Dataset/
-│   └── Cleaned_Startup_Funding_Data.xlsx
+│   └── Indian_Startup_Funding_Cleaned.csv
 │
 ├── SQL/
 │   └── Startup_Funding_Analysis.sql
