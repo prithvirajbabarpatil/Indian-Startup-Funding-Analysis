@@ -160,8 +160,12 @@ GitHub: "Prithviraj Babar" (https://github.com/prithvirajbabarpatil)
 
 🖼️ Dashboard Previews
 
-1. Indian Startup Funding Overview
+## Dashboard Previews
 
-2. Sector & Investment Analysis
+### 1. 
+![Financial Transaction Overview](Financial_Transaction_Overview.png)
 
-Dashboard preview images will be added to this section.
+### 2. 
+![Reconciliation & Data Quality](Reconciliation_Data_Quality.png)
+
+⭐ If you find this project useful, consider giving this repository a star!
