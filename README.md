@@ -162,10 +162,10 @@ GitHub: "Prithviraj Babar" (https://github.com/prithvirajbabarpatil)
 
 ## Dashboard Previews
 
-### 1. 
-![Indian_Startup_Funding_Overview](Indian_Startup_Funding_Overview.png)
+### 1. Indian Startup Funding Overview
+![Indian Startup Funding Overview](Indian_Startup_Funding_Overview.png)
 
-### 2. 
-![Reconciliation & Data Quality](Reconciliation_Data_Quality.png)
+### 2. Sector & Investment Analysis
+![Sector & Investment Analysis](Sector_&_Investment_Analysis.png)
 
 ⭐ If you find this project useful, consider giving this repository a star!
