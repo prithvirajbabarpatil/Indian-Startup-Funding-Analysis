@@ -112,8 +112,8 @@ Indian-Startup-Funding-Analysis/
 │   └── indian_startup_funding_analysis_dashboard.pbix
 │
 ├── Dashboard_Previews/
-│   ├── Dashboard_1.png
-│   └── Dashboard_2.png
+│   ├── Indian_Startup_Funding_Overview.png
+│   └── Sector_&_Investment_Analysis.png
 │
 └── README.md
 
