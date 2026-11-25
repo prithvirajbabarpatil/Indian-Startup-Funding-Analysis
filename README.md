@@ -109,7 +109,7 @@ Indian-Startup-Funding-Analysis/
 │   └── Indian_Startup_Funding_SQL_Analysis.sql
 │
 ├── Dashboard/
-│   └── Indian_Startup_Funding_Analysis.pbix
+│   └── indian_startup_funding_analysis_dashboard.pbix
 │
 ├── Dashboard_Previews/
 │   ├── Dashboard_1.png
