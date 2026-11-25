@@ -163,7 +163,7 @@ GitHub: "Prithviraj Babar" (https://github.com/prithvirajbabarpatil)
 ## Dashboard Previews
 
 ### 1. 
-![Financial Transaction Overview](Financial_Transaction_Overview.png)
+![Indian_Startup_Funding_Overview](Indian_Startup_Funding_Overview.png)
 
 ### 2. 
 ![Reconciliation & Data Quality](Reconciliation_Data_Quality.png)
