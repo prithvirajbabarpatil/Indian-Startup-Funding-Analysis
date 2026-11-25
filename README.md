@@ -106,7 +106,7 @@ Indian-Startup-Funding-Analysis/
 │   └── Indian_Startup_Funding_Cleaned.csv
 │
 ├── SQL/
-│   └── Startup_Funding_Analysis.sql
+│   └── Indian_Startup_Funding_SQL_Analysis.sql
 │
 ├── Dashboard/
 │   └── Indian_Startup_Funding_Analysis.pbix
